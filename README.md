@@ -31,31 +31,21 @@ To enhance user interaction, the project includes a **Tkinter-based GUI** that a
 
 ---
 
-## 📂 Project Structure
-```
-📁 iris-flower-classification
-│── 📄 main.py            # Main script containing GUI and model
-│── 📄 README.md          # Project documentation
-│── 📄 requirements.txt   # Dependencies list
-```
-
----
-
 ## 🔧 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/iris-flower-classification.git
-cd iris-flower-classification
+git clone https://github.com/03lukman/LogisticRegression-classification.git
+cd LogisticRegression-classification
 ```
 
 ### 2️⃣ Install Dependencies
 ```sh
-pip install -r requirements.txt
+pip install numpy pandas scikit-learn matplotlib seaborn tkinter
 ```
 
 ### 3️⃣ Run the Application
 ```sh
-python main.py
+python bunga_iris.py
 ```
 
 ---
@@ -93,8 +83,8 @@ Overall Accuracy: {:.2f}%
 
 ## 👨‍💻 Author
 - **[Your Name]**  
-- [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- [GitHub Profile](https://github.com/your-username)
+- [LinkedIn Profile](https://www.linkedin.com/in/lukman-nurhakim)  
+- [GitHub Profile](https://github.com/03lukman)
 
 ---
 
